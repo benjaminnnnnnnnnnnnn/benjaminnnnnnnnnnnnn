@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjaminnnnnnnnnnnnn
 - 👀 I’m interested programing
-- 🌱 I’m currently learning python and other language
+- 🌱 I’m currently learning javascript and other language
 - 💞️ I’m looking to collaborate on a very big project
 - 📫 How to reach me ? with this emal -> bl.benjamin@tutanota.com
 - 😄 Pronouns: nice potato ^.^
